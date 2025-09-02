@@ -1,8 +1,5 @@
-
-
 ## 📝 Backend (Node/Express) – `README.md`
 
-```markdown
 # Backend (Node/Express)
 
 This is the backend server built with **Node.js + Express.js**.  
