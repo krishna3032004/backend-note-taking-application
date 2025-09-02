@@ -49,6 +49,7 @@ Make a `.env` file in the backend root directory and add the following variables
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-GOOGLE_CALLBACK_URL=http://localhost:5000/auth/google/callback
 JWT_SECRET=your_jwt_secret
+EMAIL_USER=your_email
+EMAIL_PASS=your_email_password
+FRONTEND_URL=http://localhost:5173
