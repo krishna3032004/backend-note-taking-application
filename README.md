@@ -15,6 +15,12 @@ It provides REST APIs for authentication, user data management, and integrates w
 - REST API endpoints for frontend
 
 ---
+## 🚀 Deployment
+
+The backend is deployed on **Render** and can be accessed at:  
+👉 [https://backend-note-taking-application.onrender.com](https://backend-note-taking-application.onrender.com)
+
+---
 
 ## 📦 Installation & Setup
 
